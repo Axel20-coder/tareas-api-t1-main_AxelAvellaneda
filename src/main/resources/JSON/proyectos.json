@@ -1,0 +1,17 @@
+[
+  {
+    "nombre": "Sistema de Inventario",
+    "descripcion": "Desarrollo de un sistema web para control de inventarios.",
+    "fechaInicio": "2025-01-10",
+    "fechaFin": "2025-04-30",
+    "usuarioId": 1
+  },
+
+  {
+    "nombre": "App de Reservas",
+    "descripcion": "Aplicación móvil para reservas en restaurantes.",
+    "fechaInicio": "2025-02-01",
+    "fechaFin": "2025-06-15",
+    "usuarioId": 2
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "titulo": "Diseñar base de datos",
+    "descripcion": "Crear modelo entidad-relación para el sistema.",
+    "estado": "en progreso",
+    "prioridad": "alta",
+    "proyectoId": 1
+  },
+
+  {
+    "titulo": "Crear prototipo UI",
+    "descripcion": "Diseñar pantallas principales para la app de reservas.",
+    "estado": "pendiente",
+    "prioridad": "media",
+    "proyectoId": 2
+  }
+]

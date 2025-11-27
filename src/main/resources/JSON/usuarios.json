@@ -1,0 +1,13 @@
+[
+  {
+    "nombre": "Juan Pérez",
+    "email": "juan.perez@example.com",
+    "activo": true
+  },
+
+  {
+    "nombre": "María Gómez",
+    "email": "maria.gomez@example.com",
+    "activo": false
+  }
+]
